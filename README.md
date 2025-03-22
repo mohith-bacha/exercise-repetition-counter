@@ -1,6 +1,7 @@
 
 # Pose Detection and Angle Calculation using OpenCV and Mediapipe
 
+
 This Python script utilizes OpenCV and Mediapipe to perform real-time pose detection and angle calculation from a webcam feed. It demonstrates how to track specific body landmarks and calculate angles between joints, suitable for fitness monitoring applications.
 
 ## Requirements
